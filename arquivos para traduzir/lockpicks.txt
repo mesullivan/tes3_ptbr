@@ -1,0 +1,6 @@
+"LOCK"	"pick_apprentice_01"	"Apprentice's Lockpick"	"0.25"	"10"	"1.00"	"25"	
+"LOCK"	"pick_journeyman_01"	"Journeyman's Lockpick"	"0.25"	"50"	"1.10"	"25"	
+"LOCK"	"pick_master"	"Master's Lockpick"	"0.25"	"100"	"1.30"	"25"	
+"LOCK"	"pick_grandmaster"	"Grandmaster's Pick"	"0.25"	"200"	"1.40"	"25"	
+"LOCK"	"pick_secretmaster"	"Secret Master's Lockpick"	"0.25"	"500"	"1.50"	"25"	
+"LOCK"	"skeleton_key"	"The Skeleton Key"	"0.50"	"1000"	"5.00"	"50"	

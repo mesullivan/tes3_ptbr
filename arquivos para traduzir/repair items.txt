@@ -1,0 +1,6 @@
+"REPA"	"hammer_repair"	"Apprentice's Armorer's Hammer"	"4.00"	"10"	"0.80"	"20"	
+"REPA"	"repair_prongs"	"Repair Prongs"	"2.50"	"6"	"0.50"	"25"	
+"REPA"	"repair_journeyman_01"	"Journeyman's Armorer's Hammer"	"3.00"	"20"	"1.00"	"20"	
+"REPA"	"repair_master_01"	"Master's Armorer's Hammer"	"2.00"	"50"	"1.30"	"10"	
+"REPA"	"repair_grandmaster_01"	"GrandMaster's Armorer's Hammer"	"1.00"	"100"	"1.70"	"10"	
+"REPA"	"repair_secretmaster_01"	"Sirollus Saccus' Hammer"	"1.00"	"200"	"2.00"	"10"	

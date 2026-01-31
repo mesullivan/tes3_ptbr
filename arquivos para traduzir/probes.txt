@@ -1,0 +1,6 @@
+"PROB"	"probe_apprentice_01"	"Apprentice's Probe"	"1.00"	"10"	"0.50"	"25"	
+"PROB"	"probe_journeyman_01"	"Journeyman's Probe"	"0.25"	"50"	"0.75"	"25"	
+"PROB"	"probe_bent"	"Bent Probe"	"0.25"	"2"	"0.25"	"5"	
+"PROB"	"probe_master"	"Master's Probe"	"0.25"	"100"	"1.00"	"25"	
+"PROB"	"probe_grandmaster"	"Grandmaster's Probe"	"0.25"	"200"	"1.25"	"25"	
+"PROB"	"probe_secretmaster"	"Secret Master's Probe"	"0.25"	"500"	"1.50"	"25"	

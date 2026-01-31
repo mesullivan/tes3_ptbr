@@ -1,0 +1,83 @@
+000000: TES Editor
+000000: Computer Name: Elias
+000001: Video adapter: Intel(R) HD Graphics 3000 (9.17.10.4459)
+012979: Begin Saving...
+013080: ...Prepare files
+013080: ...Create backup file
+013080: ...Create TES and Fill and Save header
+013080: ...SAVE gamesettings
+013080: ...SAVE globals and classes
+013080: ...SAVE factions
+013080: ...SAVE races and sounds
+013080: ...SAVE skills and magiceffects
+013080: ...SAVE scripts and regions
+013080: ...SAVE birthsigns and StartScripts
+013080: ...SAVE Land Textures
+013081: ...SAVE the spells
+013081: ...SAVE all objects
+013081: ...SAVE all Cells and Refs
+013081: ...Remove hyperlinks in dialogue
+013182: ...SAVE sound gens
+013182: ...SAVE dialogue
+013284: ...Close TES and any masters
+013284: SAVE COMPLETE.
+014510: Begin Saving...
+014510: ...Prepare files
+014510: ...Create backup file
+014511: ...Create TES and Fill and Save header
+014511: ...SAVE gamesettings
+014511: ...SAVE globals and classes
+014511: ...SAVE factions
+014511: ...SAVE races and sounds
+014511: ...SAVE skills and magiceffects
+014511: ...SAVE scripts and regions
+014511: ...SAVE birthsigns and StartScripts
+014511: ...SAVE Land Textures
+014612: ...SAVE the spells
+014612: ...SAVE all objects
+014612: ...SAVE all Cells and Refs
+014612: ...Remove hyperlinks in dialogue
+014613: ...SAVE sound gens
+014613: ...SAVE dialogue
+014715: ...Close TES and any masters
+014715: SAVE COMPLETE.
+021265: Begin Saving...
+021265: ...Prepare files
+021265: ...Create backup file
+021366: ...Create TES and Fill and Save header
+021366: ...SAVE gamesettings
+021366: ...SAVE globals and classes
+021366: ...SAVE factions
+021366: ...SAVE races and sounds
+021366: ...SAVE skills and magiceffects
+021366: ...SAVE scripts and regions
+021366: ...SAVE birthsigns and StartScripts
+021366: ...SAVE Land Textures
+021366: ...SAVE the spells
+021367: ...SAVE all objects
+021367: ...SAVE all Cells and Refs
+021367: ...Remove hyperlinks in dialogue
+021468: ...SAVE sound gens
+021468: ...SAVE dialogue
+021570: ...Close TES and any masters
+021570: SAVE COMPLETE.
+290488: Begin Saving...
+290488: ...Prepare files
+290489: ...Create backup file
+290489: ...Create TES and Fill and Save header
+290489: ...SAVE gamesettings
+290489: ...SAVE globals and classes
+290489: ...SAVE factions
+290489: ...SAVE races and sounds
+290489: ...SAVE skills and magiceffects
+290489: ...SAVE scripts and regions
+290489: ...SAVE birthsigns and StartScripts
+290590: ...SAVE Land Textures
+290590: ...SAVE the spells
+290590: ...SAVE all objects
+290590: ...SAVE all Cells and Refs
+290590: ...Remove hyperlinks in dialogue
+290591: ...SAVE sound gens
+290692: ...SAVE dialogue
+290693: ...Close TES and any masters
+290693: SAVE COMPLETE.

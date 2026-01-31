@@ -1,0 +1,1521 @@
+"1"	"sMonthMorningstar"	"Morning Star"			
+"2"	"sMonthSunsdawn"	"Sun's Dawn"			
+"3"	"sMonthFirstseed"	"First Seed"			
+"4"	"sMonthRainshand"	"Rain's Hand"			
+"5"	"sMonthSecondseed"	"Second Seed"			
+"6"	"sMonthMidyear"	"Mid Year"			
+"7"	"sMonthSunsheight"	"Sun's Height"			
+"8"	"sMonthLastseed"	"Last Seed"			
+"9"	"sMonthHeartfire"	"Heartfire"			
+"10"	"sMonthFrostfall"	"Frost Fall"			
+"11"	"sMonthSunsdusk"	"Sun's Dusk"			
+"12"	"sMonthEveningstar"	"Evening Star"			
+"13"	"sSpecialization"	"Specialization"			
+"14"	"sSpecializationCombat"	"Combat"			
+"15"	"sSpecializationMagic"	"Magic"			
+"16"	"sSpecializationStealth"	"Stealth"			
+"17"	"sSkillClassMajor"	"Major Skills"			
+"18"	"sSkillClassMinor"	"Minor Skills"			
+"19"	"sSkillClassMisc"	"Misc Skills"			
+"20"	"sRacialTraits"	"Racial Traits"			
+"21"	"sHealthPerHourOfRest"	"Health per hour of rest"			
+"22"	"sHealthPerLevel"	"Health per level"			
+"23"	"sGoverningAttribute"	"Governing Attribute"			
+"24"	"sClass"	"Class"			
+"25"	"sTraits"	"Traits"			
+"26"	"sJournal"	"Journal"			
+"27"	"sOK"	"OK"			
+"28"	"sClose"	"Close"			
+"29"	"sPrev"	"Prev"			
+"30"	"sNext"	"Next"			
+"31"	"sTake"	"Take"			
+"32"	"sWeaponTab"	"Weapon"			
+"33"	"sApparelTab"	"Apparel"			
+"34"	"sMagicTab"	"Magic"			
+"35"	"sMiscTab"	"Misc"			
+"36"	"sWornTab"	"Worn"			
+"37"	"sAllTab"	"All"			
+"38"	"sAttack"	"Attack"			
+"39"	"sUses"	"Uses"			
+"40"	"sQuality"	"Quality"			
+"41"	"sCharges"	"Charge:"			
+"42"	"sArmorRating"	"Armor Rating"			
+"43"	"sSlash"	"Slash"			
+"44"	"sThrust"	"Thrust"			
+"45"	"sChop"	"Chop"			
+"46"	"sEncumbrance"	"Encumbrance"			
+"47"	"sCondition"	"Condition"			
+"48"	"sWeight"	"Weight"			
+"49"	"sValue"	"Value"			
+"50"	"sLight"	"Light"			
+"51"	"sMedium"	"Medium"			
+"52"	"sHeavy"	"Heavy"			
+"53"	"sCancel"	"Cancel"			
+"54"	"sTakeAll"	"Take All"			
+"55"	"sUntilHealed"	"Until Healed"			
+"56"	"sRest"	"Rest"			
+"57"	"sWait"	"Wait"			
+"58"	"sRestIllegal"	"Resting here is illegal. You'll need to find a bed."			
+"59"	"sGold"	"Gold"			
+"60"	"sMove"	"Move"			
+"61"	"sTo"	"to"			
+"62"	"sActorInCombat"	"This character is in combat."			
+"63"	"sArmor"	"Armor"			
+"64"	"sTopics"	"Topics"			
+"65"	"sService"	"Service"			
+"66"	"sPersuasion"	"Persuasion"			
+"67"	"sBye"	"Bye"			
+"68"	"sGoodbye"	"Goodbye"			
+"69"	"sYes"	"Yes"			
+"70"	"sNo"	"No"			
+"71"	"sOn"	"On"			
+"72"	"sOff"	"Off"			
+"73"	"sFull"	"Full"			
+"74"	"sWorld"	"World"			
+"75"	"sExpelled"	"EXPELLED"			
+"76"	"sExpelledMessage"	"You have been expelled from "			
+"77"	"sFavoriteSkills"	"Favorite Skills"			
+"78"	"sGame"	"Game"			
+"79"	"sVideo"	"Video"			
+"80"	"sAudio"	"Audio"			
+"81"	"sControls"	"Controls"			
+"82"	"sPrefs"	"Prefs"			
+"83"	"sPreferences"	"Preferences"			
+"84"	"sNewGame"	"New Game"			
+"85"	"sExitGame"	"Exit Game"			
+"86"	"sOptions"	"Options Menu"			
+"87"	"sSaveGame"	"Save Game"			
+"88"	"sLoadGame"	"Load Game"			
+"89"	"sDeleteGame"	"Delete Game"			
+"90"	"sSaveGameDenied"	"Você não pode salvar o jogo agora."			
+"91"	"sSaveGameFailed"	"An error was encountered while saving the game."			
+"92"	"sSaveGameTooBig"	"There is not enough space to save this game. Free up at least %i blocks and try again."			
+"93"	"sSaveGameNoMemory"	"Unable to create Save Game. Free up 100 blocks and try again."			
+"94"	"sMaximumSaveGameMessage"	"You have reached the limit of Morrowind saved games. Please delete a Morrowind saved game and try again."			
+"95"	"sRender_Distance"	"View Distance"			
+"96"	"sNear"	"Near"			
+"97"	"sFar"	"Far"			
+"98"	"sGamma_Correction"	"Gamma Correction"			
+"99"	"sLight_Gamma"	"Light"			
+"100"	"sDark_Gamma"	"Dark"			
+"101"	"sSeldom"	"Seldom"			
+"102"	"sAlways"	"Always"			
+"103"	"sWaterTerrainReflect"	"Reflect Terrain"			
+"104"	"sWaterReflectUpdate"	"Reflection Updating"			
+"105"	"fWaterReflectUpdateAlways"			0.0000	
+"106"	"fWaterReflectUpdateSeldom"			10.0000	
+"107"	"sMaster"	"Master"			
+"108"	"sVoice"	"Voice"			
+"109"	"sEffects"	"Effects"			
+"110"	"sFootsteps"	"Footsteps"			
+"111"	"sMusic"	"Music"			
+"112"	"sTransparency_Menu"	"Menu Transparency"			
+"113"	"sMenu_Help_Delay"	"Menu Help Delay"			
+"114"	"sAIDistance"	"AI Distance"			
+"115"	"sHigh"	"High"			
+"116"	"sLow"	"Low"			
+"117"	"sDetail_Level"	"Detail Level"			
+"118"	"sMenus"	"Menus"			
+"119"	"sStrip"	"Strip"			
+"120"	"sReturnToGame"	"Return To Game"			
+"121"	"sForward"	"Forward"			
+"122"	"sBack"	"Back"			
+"123"	"sLeft"	"Left"			
+"124"	"sRight"	"Right"			
+"125"	"sUse"	"Use"			
+"126"	"sActivate"	"Activate"			
+"127"	"sReady_Weapon"	"Ready Weapon"			
+"128"	"sReady_Magic"	"Ready Magic"			
+"129"	"sCrouch_Sneak"	"Sneak"			
+"130"	"sRun"	"Run"			
+"131"	"sAlways_Run"	"Always Run"			
+"132"	"sAuto_Run"	"Auto Run"			
+"133"	"sJump"	"Jump"			
+"134"	"sNextWeapon"	"Next Weapon"			
+"135"	"sPrevWeapon"	"Previous Weapon"			
+"136"	"sNextSpell"	"Next Spell"			
+"137"	"sPrevSpell"	"Previous Spell"			
+"138"	"sTogglePOVCmd"	"Toggle POV"			
+"139"	"sMenu_Mode"	"Menu Mode"			
+"140"	"sJournalCmd"	"Journal"			
+"141"	"sRestKey"	"Rest"			
+"142"	"sQuickMenu"	"Quick Menu"			
+"143"	"sQuick1Cmd"	"Quick 1"			
+"144"	"sQuick2Cmd"	"Quick 2"			
+"145"	"sQuick3Cmd"	"Quick 3"			
+"146"	"sQuick4Cmd"	"Quick 4"			
+"147"	"sQuick5Cmd"	"Quick 5"			
+"148"	"sQuick6Cmd"	"Quick 6"			
+"149"	"sQuick7Cmd"	"Quick 7"			
+"150"	"sQuick8Cmd"	"Quick 8"			
+"151"	"sQuick9Cmd"	"Quick 9"			
+"152"	"sQuick10Cmd"	"Quick 10"			
+"153"	"sQuickSaveCmd"	"Quick Save"			
+"154"	"sQuickLoadCmd"	"Quick Load"			
+"155"	"sKeyName_00"				
+"156"	"sKeyName_01"	"ESC"			
+"157"	"sKeyName_02"	"1"			
+"158"	"sKeyName_03"	"2"			
+"159"	"sKeyName_04"	"3"			
+"160"	"sKeyName_05"	"4"			
+"161"	"sKeyName_06"	"5"			
+"162"	"sKeyName_07"	"6"			
+"163"	"sKeyName_08"	"7"			
+"164"	"sKeyName_09"	"8"			
+"165"	"sKeyName_0A"	"9"			
+"166"	"sKeyName_0B"	"0"			
+"167"	"sKeyName_0C"	"-"			
+"168"	"sKeyName_0D"	"="			
+"169"	"sKeyName_0E"	"Back Space"			
+"170"	"sKeyName_0F"	"Tab"			
+"171"	"sKeyName_10"	"Q"			
+"172"	"sKeyName_11"	"W"			
+"173"	"sKeyName_12"	"E"			
+"174"	"sKeyName_13"	"R"			
+"175"	"sKeyName_14"	"T"			
+"176"	"sKeyName_15"	"Y"			
+"177"	"sKeyName_16"	"U"			
+"178"	"sKeyName_17"	"I"			
+"179"	"sKeyName_18"	"O"			
+"180"	"sKeyName_19"	"P"			
+"181"	"sKeyName_1A"	"["			
+"182"	"sKeyName_1B"	"]"			
+"183"	"sKeyName_1C"	"Return"			
+"184"	"sKeyName_1D"	"Left Ctrl"			
+"185"	"sKeyName_1E"	"A"			
+"186"	"sKeyName_1F"	"S"			
+"187"	"sKeyName_20"	"D"			
+"188"	"sKeyName_21"	"F"			
+"189"	"sKeyName_22"	"G"			
+"190"	"sKeyName_23"	"H"			
+"191"	"sKeyName_24"	"J"			
+"192"	"sKeyName_25"	"K"			
+"193"	"sKeyName_26"	"L"			
+"194"	"sKeyName_27"	";"			
+"195"	"sKeyName_28"	"'"			
+"196"	"sKeyName_29"	"Grave"			
+"197"	"sKeyName_2A"	"Left Shift"			
+"198"	"sKeyName_2B"	"\"			
+"199"	"sKeyName_2C"	"Z"			
+"200"	"sKeyName_2D"	"X"			
+"201"	"sKeyName_2E"	"C"			
+"202"	"sKeyName_2F"	"V"			
+"203"	"sKeyName_30"	"B"			
+"204"	"sKeyName_31"	"N"			
+"205"	"sKeyName_32"	"M"			
+"206"	"sKeyName_33"	","			
+"207"	"sKeyName_34"	"."			
+"208"	"sKeyName_35"	"/"			
+"209"	"sKeyName_36"	"Right Shift"			
+"210"	"sKeyName_37"	"Numpad *"			
+"211"	"sKeyName_38"	"Left Alt"			
+"212"	"sKeyName_39"	"SPACEBAR"			
+"213"	"sKeyName_3A"	"Caps Lock"			
+"214"	"sKeyName_3B"	"F1"			
+"215"	"sKeyName_3C"	"F2"			
+"216"	"sKeyName_3D"	"F3"			
+"217"	"sKeyName_3E"	"F4"			
+"218"	"sKeyName_3F"	"F5"			
+"219"	"sKeyName_40"	"F6"			
+"220"	"sKeyName_41"	"F7"			
+"221"	"sKeyName_42"	"F8"			
+"222"	"sKeyName_43"	"F9"			
+"223"	"sKeyName_44"	"F10"			
+"224"	"sKeyName_45"	"Num Lock"			
+"225"	"sKeyName_46"	"Scroll Lock"			
+"226"	"sKeyName_47"	"Numpad 7"			
+"227"	"sKeyName_48"	"Numpad 8"			
+"228"	"sKeyName_49"	"Numpad 9"			
+"229"	"sKeyName_4A"	"Numpad -"			
+"230"	"sKeyName_4B"	"Numpad 4"			
+"231"	"sKeyName_4C"	"Numpad 5"			
+"232"	"sKeyName_4D"	"Numpad 6"			
+"233"	"sKeyName_4E"	"Numpad +"			
+"234"	"sKeyName_4F"	"Numpad 1"			
+"235"	"sKeyName_50"	"Numpad 2"			
+"236"	"sKeyName_51"	"Numpad 3"			
+"237"	"sKeyName_52"	"Numpad 0"			
+"238"	"sKeyName_53"	"Decimal"			
+"239"	"sKeyName_54"				
+"240"	"sKeyName_55"				
+"241"	"sKeyName_56"	"OEM 102"			
+"242"	"sKeyName_57"	"F11"			
+"243"	"sKeyName_58"	"F12"			
+"244"	"sKeyName_59"				
+"245"	"sKeyName_5A"				
+"246"	"sKeyName_5B"				
+"247"	"sKeyName_5C"				
+"248"	"sKeyName_5D"				
+"249"	"sKeyName_5E"				
+"250"	"sKeyName_5F"				
+"251"	"sKeyName_60"				
+"252"	"sKeyName_61"				
+"253"	"sKeyName_62"				
+"254"	"sKeyName_63"				
+"255"	"sKeyName_64"	"F13"			
+"256"	"sKeyName_65"	"F14"			
+"257"	"sKeyName_66"	"F15"			
+"258"	"sKeyName_67"				
+"259"	"sKeyName_68"				
+"260"	"sKeyName_69"				
+"261"	"sKeyName_6A"				
+"262"	"sKeyName_6B"				
+"263"	"sKeyName_6C"				
+"264"	"sKeyName_6D"				
+"265"	"sKeyName_6E"				
+"266"	"sKeyName_6F"				
+"267"	"sKeyName_70"	"Kana"			
+"268"	"sKeyName_71"				
+"269"	"sKeyName_72"				
+"270"	"sKeyName_73"	"Abnt C1"			
+"271"	"sKeyName_74"				
+"272"	"sKeyName_75"				
+"273"	"sKeyName_76"				
+"274"	"sKeyName_77"				
+"275"	"sKeyName_78"				
+"276"	"sKeyName_79"	"Cnvrt"			
+"277"	"sKeyName_7A"				
+"278"	"sKeyName_7B"	"No Cnvrt"			
+"279"	"sKeyName_7C"				
+"280"	"sKeyName_7D"	"Yen"			
+"281"	"sKeyName_7E"	"Abnt C2"			
+"282"	"sKeyName_7F"				
+"283"	"sKeyName_80"				
+"284"	"sKeyName_81"				
+"285"	"sKeyName_82"				
+"286"	"sKeyName_83"				
+"287"	"sKeyName_84"				
+"288"	"sKeyName_85"				
+"289"	"sKeyName_86"				
+"290"	"sKeyName_87"				
+"291"	"sKeyName_88"				
+"292"	"sKeyName_89"				
+"293"	"sKeyName_8A"				
+"294"	"sKeyName_8B"				
+"295"	"sKeyName_8C"				
+"296"	"sKeyName_8D"	"Np Equals"			
+"297"	"sKeyName_8E"				
+"298"	"sKeyName_8F"				
+"299"	"sKeyName_90"	"PrvTrk"			
+"300"	"sKeyName_91"	"AT"			
+"301"	"sKeyName_92"	":"			
+"302"	"sKeyName_93"	"_"			
+"303"	"sKeyName_94"	"Kanji"			
+"304"	"sKeyName_95"	"Stop"			
+"305"	"sKeyName_96"	"Ax"			
+"306"	"sKeyName_97"	"Unlabeled"			
+"307"	"sKeyName_98"				
+"308"	"sKeyName_99"	"NxtTrk"			
+"309"	"sKeyName_9A"				
+"310"	"sKeyName_9B"				
+"311"	"sKeyName_9C"	"Right Enter"			
+"312"	"sKeyName_9D"	"Right Ctrl"			
+"313"	"sKeyName_9E"				
+"314"	"sKeyName_9F"				
+"315"	"sKeyName_A0"	"Mute"			
+"316"	"sKeyName_A1"	"Calc"			
+"317"	"sKeyName_A2"	"Play Pause"			
+"318"	"sKeyName_A3"				
+"319"	"sKeyName_A4"	"Media Stop"			
+"320"	"sKeyName_A5"				
+"321"	"sKeyName_A6"				
+"322"	"sKeyName_A7"				
+"323"	"sKeyName_A8"				
+"324"	"sKeyName_A9"				
+"325"	"sKeyName_AA"				
+"326"	"sKeyName_AB"				
+"327"	"sKeyName_AC"				
+"328"	"sKeyName_AD"				
+"329"	"sKeyName_AE"	"Volume Down"			
+"330"	"sKeyName_AF"				
+"331"	"sKeyName_B0"	"Volume Up"			
+"332"	"sKeyName_B1"				
+"333"	"sKeyName_B2"	"Web Home"			
+"334"	"sKeyName_B3"	"Numpad ,"			
+"335"	"sKeyName_B4"				
+"336"	"sKeyName_B5"	"Numpad /"			
+"337"	"sKeyName_B6"				
+"338"	"sKeyName_B7"	"SysRq"			
+"339"	"sKeyName_B8"	"Right Alt"			
+"340"	"sKeyName_B9"				
+"341"	"sKeyName_BA"				
+"342"	"sKeyName_BB"				
+"343"	"sKeyName_BC"				
+"344"	"sKeyName_BD"				
+"345"	"sKeyName_BE"				
+"346"	"sKeyName_BF"				
+"347"	"sKeyName_C0"				
+"348"	"sKeyName_C1"				
+"349"	"sKeyName_C2"				
+"350"	"sKeyName_C3"				
+"351"	"sKeyName_C4"				
+"352"	"sKeyName_C5"	"Pause"			
+"353"	"sKeyName_C6"				
+"354"	"sKeyName_C7"	"Home"			
+"355"	"sKeyName_C8"	"Up"			
+"356"	"sKeyName_C9"	"Page Up"			
+"357"	"sKeyName_CA"				
+"358"	"sKeyName_CB"	"Left"			
+"359"	"sKeyName_CC"				
+"360"	"sKeyName_CD"	"Right"			
+"361"	"sKeyName_CE"				
+"362"	"sKeyName_CF"	"End"			
+"363"	"sKeyName_D0"	"Down"			
+"364"	"sKeyName_D1"	"Page Down"			
+"365"	"sKeyName_D2"	"Insert"			
+"366"	"sKeyName_D3"	"Delete"			
+"367"	"sKeyName_D4"				
+"368"	"sKeyName_D5"				
+"369"	"sKeyName_D6"				
+"370"	"sKeyName_D7"				
+"371"	"sKeyName_D8"				
+"372"	"sKeyName_D9"				
+"373"	"sKeyName_DA"				
+"374"	"sKeyName_DB"	"Left Win"			
+"375"	"sKeyName_DC"	"Right Win"			
+"376"	"sKeyName_DD"	"Apps"			
+"377"	"sKeyName_DE"	"Power"			
+"378"	"sKeyName_DF"	"Sleep"			
+"379"	"sKeyName_E0"				
+"380"	"sKeyName_E1"				
+"381"	"sKeyName_E2"				
+"382"	"sKeyName_E3"	"Wake"			
+"383"	"sKeyName_E4"				
+"384"	"sKeyName_E5"	"Web Search"			
+"385"	"sKeyName_E6"	"Web Favs"			
+"386"	"sKeyName_E7"	"Web Ref"			
+"387"	"sKeyName_E8"	"Web Stop"			
+"388"	"sKeyName_E9"	"Web Fwd"			
+"389"	"sKeyName_EA"	"Web Back"			
+"390"	"sKeyName_EB"	"My Comp"			
+"391"	"sKeyName_EC"				
+"392"	"sKeyName_ED"				
+"393"	"sKeyName_EE"				
+"394"	"sKeyName_EF"				
+"395"	"sKeyName_F0"				
+"396"	"sKeyName_F1"				
+"397"	"sKeyName_F2"				
+"398"	"sKeyName_F3"				
+"399"	"sKeyName_F4"				
+"400"	"sKeyName_F5"				
+"401"	"sKeyName_F6"				
+"402"	"sKeyName_F7"				
+"403"	"sKeyName_F8"				
+"404"	"sKeyName_F9"				
+"405"	"sKeyName_FA"				
+"406"	"sKeyName_FB"				
+"407"	"sKeyName_FC"				
+"408"	"sKeyName_FD"				
+"409"	"sKeyName_FE"				
+"410"	"sKeyName_FF"				
+"411"	"sForwardXbox"	"Move Forward"			
+"412"	"sBackXbox"	"Move Backward"			
+"413"	"sSlideLeftXbox"	"Slide Left"			
+"414"	"sSlideRightXbox"	"Slide Right"			
+"415"	"sMenuModeXbox"	"Menu Mode"			
+"416"	"sActivateXbox"	"Activate"			
+"417"	"sUseXbox"	"Use"			
+"418"	"sReadyItemXbox"	"Ready Item"			
+"419"	"sReadyMagicXbox"	"Ready Magic"			
+"420"	"sCrouchXbox"	"Sneak"			
+"421"	"sRunXbox"	"Run"			
+"422"	"sToggleRunXbox"	"Toggle Run"			
+"423"	"sJumpXbox"	"Jump"			
+"424"	"sTogglePOVXbox"	"Toggle View"			
+"425"	"sMenuNextXbox"	"Next Menu"			
+"426"	"sMenuPrevXbox"	"Previous Menu"			
+"427"	"sJournalXbox"	"Journal"			
+"428"	"sQuick4Xbox"	"sQuick4Xbox"			
+"429"	"sQuick5Xbox"	"sQuick5Xbox"			
+"430"	"sQuick6Xbox"	"sQuick6Xbox"			
+"431"	"sQuick7Xbox"	"sQuick7Xbox"			
+"432"	"sQuick8Xbox"	"sQuick8Xbox"			
+"433"	"sQuick9Xbox"	"sQuick9Xbox"			
+"434"	"sQuick0Xbox"	"sQuick0Xbox"			
+"435"	"sOptionsMenuXbox"	"Options Menu"			
+"436"	"sSystemMenuXbox"	"System Menu"			
+"437"	"sRestMenuXbox"	"Rest/Wait"			
+"438"	"sQuickSaveXbox"	"Quick Save"			
+"439"	"sQuickLoadXbox"	"Quick Load"			
+"440"	"sMoveUpXbox"	"Move Up"			
+"441"	"sMoveDownXbox"	"Move Down"			
+"442"	"sLookUpXbox"	"Look Up"			
+"443"	"sLookDownXbox"	"Look Down"			
+"444"	"sTurnLeftXbox"	"Turn Left"			
+"445"	"sTurnRightXbox"	"Turn Right"			
+"446"	"sNextWeaponXbox"	"Next Weapon"			
+"447"	"sPrevWeaponXbox"	"Previous Weapon"			
+"448"	"sNextSpellXbox"	"Next Spell"			
+"449"	"sPrevSpellXbox"	"Previous Spell"			
+"450"	"sDialogText1Xbox"	"PUSH"			
+"451"	"sDialogText2Xbox"	"TO GO BACK"			
+"452"	"sDialogText3Xbox"	"TO READ MORE"			
+"453"	"sQuick_Save"	"Auto-Save when Rest"			
+"454"	"sShadowText"	"Real-time Shadows"			
+"455"	"sLockSuccess"	"Lock pick success!"			
+"456"	"sLockFail"	"Lock pick failed."			
+"457"	"sLockImpossible"	"Lock too complex."			
+"458"	"sTrapSuccess"	"Trap disarmed!"			
+"459"	"sTrapFail"	"Disarm trap failed."			
+"460"	"sTrapImpossible"	"Trap too complex, your chance to disarm it is zero"			
+"461"	"sTrapped"	"Trapped"			
+"462"	"sLockLevel"	"Lock Level"			
+"463"	"sKeyUsed"	"used to open lock"			
+"464"	"sUnlocked"	"Unlocked"			
+"465"	"fRepairMult"			1.0000	
+"466"	"fRepairAmountMult"			3.0000	
+"467"	"fSpellValueMult"			10.0000	
+"468"	"fSpellMakingValueMult"			7.0000	
+"469"	"fEnchantmentValueMult"			1000.0000	
+"470"	"fTravelMult"			4000.0000	
+"471"	"fTravelTimeMult"			16000.0000	
+"472"	"fMagesGuildTravel"			10.0000	
+"473"	"sBarter"	"Barter"			
+"474"	"sRepair"	"Repair"			
+"475"	"sSpells"	"Spells"			
+"476"	"sTraining"	"Training"			
+"477"	"sTravel"	"Travel"			
+"478"	"sSpellmaking"	"Spellmaking"			
+"479"	"sEnchanting"	"Enchanting"			
+"480"	"sJoystickNotFound"	"Joystick not found."			
+"481"	"sJournalEntry"	"Your journal has been updated."			
+"482"	"sDay"	"Day"			
+"483"	"sCreate"	"Create"			
+"484"	"sIngredients"	"Ingredients"			
+"485"	"sApparatus"	"Apparatus"			
+"486"	"sCreatedEffects"	"Created Effects"			
+"487"	"sOnetypeEffectMessage"	"This effect has already been added."			
+"488"	"sName"	"Name"			
+"489"	"sNameTitle"	"Name"			
+"490"	"sSelect"	"Select"			
+"491"	"sBuy"	"Buy"			
+"492"	"sInfo"	"Info"			
+"493"	"sMagicEffects"	"Magic Effects"			
+"494"	"sOnce"	"Once"			
+"495"	"sCostCharge"	"Cost/Charge"			
+"496"	"sCostChance"	"Cost/Chance"			
+"497"	"sAttributesMenu1"	"Choose an Attribute "			
+"498"	"sBirthsignmenu1"	"Abilities:"			
+"499"	"sBirthsignmenu2"	"Spells:"			
+"500"	"sChooseClassMenu1"	"Specialization:"			
+"501"	"sChooseClassMenu2"	"Favorite Attributes:"			
+"502"	"sChooseClassMenu3"	"Major Skills:"			
+"503"	"sChooseClassMenu4"	"Minor Skills:"			
+"504"	"sCreateClassMenuWarning"	"Reselect your class?"			
+"505"	"sClassChoiceMenu1"	"Answer his questions (Generates Class)"			
+"506"	"sClassChoiceMenu2"	"Give him the info (Pick from Class List)"			
+"507"	"sClassChoiceMenu3"	"Fill out forms yourself (Create Custom Class)"			
+"508"	"sNotifyMessage1"	"You can only rest on solid ground."			
+"509"	"sNotifyMessage2"	"You can't rest here enemies are nearby."			
+"510"	"sNotifyMessage3"	"You cannot sleep when dreaming."			
+"511"	"sNotifyMessage4"	"Saving..."			
+"512"	"sNotifyMessage4XBOX"	"Saving. Please don't turn off your Xbox console."			
+"513"	"sNotifyMessage5"	"You must place the object you are holding into a container before exiting menus."			
+"514"	"sNotifyMessage6"	"Only one of each ingredient can be used to make a potion."			
+"515"	"sNotifyMessage6a"	"At least two ingredients are needed to make a potion."			
+"516"	"sNotifyMessage7"	"Only four ingredients can be used in a potion."			
+"517"	"sNotifyMessage8"	"Your potion failed."			
+"518"	"sNotifyMessage9"	"Your offer is refused."			
+"519"	"sNotifyMessage10"	"You have to name the spell before buying it."			
+"520"	"sNotifyMessage11"	"You have to have an item to enchant."			
+"521"	"sNotifyMessage12"	"You don't have enough gold to buy this spell."			
+"522"	"sNotifyMessage13"	"Beast races cannot wear full helmets."			
+"523"	"sNotifyMessage14"	"Beast races cannot wear boots."			
+"524"	"sNotifyMessage15"	"Beast races cannot wear shoes."			
+"525"	"sNotifyMessage16"	"You can only wear one clothing item at a time."			
+"526"	"sNotifyMessage16_a"	"You can only equip one item of that type at a time."			
+"527"	"sNotifyMessage17"	"You cannot train a skill above its governing attribute."			
+"528"	"sNotifyMessage18"	"You don't have enough gold to buy this spell."			
+"529"	"sNotifyMessage19"	"Only one apparatus can be placed in each slot of the alchemy menu."			
+"530"	"sNotifyMessage20"	"Please remove the object already in the mortar and pestle slot."			
+"531"	"sNotifyMessage21"	"Please remove the object already in the alembic slot."			
+"532"	"sNotifyMessage22"	"Please remove the object already in the calcinator slot."			
+"533"	"sNotifyMessage23"	"Please remove the object already in the retort slot."			
+"534"	"sNotifyMessage24"	"You need to assign all the major and minor skill slots."			
+"535"	"sNotifyMessage25"	"You need to pick two favorite attributes."			
+"536"	"sNotifyMessage26"	"You need to pick a specialization."			
+"537"	"sNotifyMessage27"	"You need to assign all the major and minor skill slots."			
+"538"	"sNotifyMessage28"	"You can only add eight effects to a spell."			
+"539"	"sNotifyMessage29"	"You cannot add more enchantment to an object then it can hold."			
+"540"	"sNotifyMessage30"	"You have to add at least one effect to a spell."			
+"541"	"sNotifyMessage31"	"Items already enchanted cannot have another enchantment added."			
+"542"	"sNotifyMessage32"	"Only soul gems with a soul can be put in the soul gem slot."			
+"543"	"sNotifyMessage33"	"Only soul gems put in the soul gem slot."			
+"544"	"sNotifyMessage34"	"The enchantment failed and your gem is destroyed."			
+"545"	"sNotifyMessage35"	"Only one apparatus item can be equipped at a time."			
+"546"	"sNotifyMessage36"	"You have to distribute all you points before exiting."			
+"547"	"sNotifyMessage37"	"You need to type in your name."			
+"548"	"sNotifyMessage38"	"Skill Increase:"			
+"549"	"sNotifyMessage39"	"Your %s skill increased to %d."			
+"550"	"sNotifyMessage40"	"Skill Maximum Reached."			
+"551"	"sNotifyMessage41"	"Your %s skill has reached the limit of your %s."			
+"552"	"sNotifyMessage42"	"You have been released after %d day.[CRLF]A skill has been affected by your time in prison."			
+"553"	"sNotifyMessage43"	"You have been released after %d days.[CRLF]Your skills have been affected by your time in prison."			
+"554"	"sNotifyMessage44"	"Your %s skill decreased to %d."			
+"555"	"sNotifyMessage45"	"You need a Mortar and Pestle to use"			
+"556"	"sNotifyMessage46"	"You need a Alembic to use"			
+"557"	"sNotifyMessage47"	"You need a Calcinator to use"			
+"558"	"sNotifyMessage48"	"You need a Retort to use"			
+"559"	"sNotifyMessage49"	"That %s is mine."			
+"560"	"sNotifyMessage50"	"%s has no effect on you."			
+"561"	"sNotifyMessage51"	"The %s has been used up."			
+"562"	"sNotifyMessage52"	"You must have a soul gem with a soul to make an Enchanted Item"			
+"563"	"sNotifyMessage53"	"Your menu sizes and positions have been saved for exploring mode."			
+"564"	"sNotifyMessage54"	"Do you want to start a new game and lose your current game?"			
+"565"	"sNotifyMessage55"	"Please reconnect the controller and press START to continue."			
+"566"	"sNotifyMessage56"	"There's a problem with the disc you're using. It may be dirty or damaged. [CRLF]Press A to continue."			
+"567"	"sNotifyMessage57"	"Please press START to begin."			
+"568"	"sNotifyMessage58"	"Your Xbox Hard Disk doesn't have enough free blocks to save games. [CRLF]Press A to continue without saving [CRLF]or B to free more blocks."			
+"569"	"sNotifyMessage59"	"You are over-encumbered."			
+"570"	"sNotifyMessage60"	"%s has been added to your inventory."			
+"571"	"sNotifyMessage61"	"%d %s has been added to your inventory."			
+"572"	"sNotifyMessage62"	"%s has been removed from your inventory."			
+"573"	"sNotifyMessage63"	"%d %s has been removed from your inventory."			
+"574"	"sNotifyMessage64"	"You can't sleep in someone else's bed!"			
+"575"	"sNotifyMessage65"	"You can't save a game with no name!"			
+"576"	"sNotifyMessage66"	"This will reset all controls to the default settings.  Do you wish to continue?"			
+"577"	"sNotifyMessage67"	"This will immediately change your resolution.  Do you want to continue?"			
+"578"	"sTeleportDisabled"	"Teleportation magic does not work here."			
+"579"	"sLevitateDisabled"	"Levitation magic does not work here."			
+"580"	"sInPrisonTitle"	"Serving time..."			
+"581"	"sInfoRefusal"	"Info Refusal"			
+"582"	"sAdmireSuccess"	"Admire Success"			
+"583"	"sAdmireFail"	"Admire Fail"			
+"584"	"sIntimidateSuccess"	"Intimidate Success"			
+"585"	"sIntimidateFail"	"Intimidate Fail"			
+"586"	"sTauntSuccess"	"Taunt Success"			
+"587"	"sTauntFail"	"Taunt Fail"			
+"588"	"sServiceRefusal"	"Service Refusal"			
+"589"	"sBribeSuccess"	"Bribe Success"			
+"590"	"sBribeFail"	"Bribe Fail"			
+"591"	"sWerewolfRefusal"	"You cannot do this as a werewolf."			
+"592"	"sWerewolfPopup"	"Werewolf"			
+"593"	"sWerewolfRestMessage"	"You cannot rest in werewolf form."			
+"594"	"sWerewolfAlarmMessage"	"You have been detected changing from a werewolf state."			
+"595"	"sBookSkillMessage"	"You have gained knowledge from this book. "			
+"596"	"sLoadingMessage1"	"Loading Master/Plugin Files"			
+"597"	"sLoadingMessage2"	"Loading Area"			
+"598"	"sLoadingMessage3"	"Loading Area"			
+"599"	"sLoadingMessage4"	"Initializing Data..."			
+"600"	"sLoadingMessage5"	"Parsing Quests (this may take a while)[CRLF]Re-save your game when done"			
+"601"	"sLoadingMessage9"	"Clearing Data..."			
+"602"	"sLoadingMessage14"	"Loading Save Game"			
+"603"	"sLoadingMessage15"	"Loading (%s)"			
+"604"	"sInvalidSaveGameMsg"	"This file is an invalid Save Game."			
+"605"	"sInvalidSaveGameMsgXBOX"	"Unable to load saved game. Press A to continue."			
+"606"	"sLoadingErrorsMsg"	"Errors were encountered loading from file '%s'."			
+"607"	"sMissingMastersMsg"	"The currently selected master files and plugins do not match the ones used by this save game. Errors may occur during load or game play.[CRLF]Do you wish to continue?"			
+"608"	"sChangedMastersMsg"	"The selected master files and plugins may have changed since this save game was created. Errors may occur during load or game play.[CRLF]Do you wish to continue?"			
+"609"	"sMastPlugMismatchMsg"	"One of the files that ""%s"" is dependent on has changed since the last save.[CRLF]This may result in errors. Saving again will clear this message[CRLF]but not necessarily fix any errors.[CRLF]"			
+"610"	"sGeneralMastPlugMismatchMsg"	"One or more plugins could not find the correct versions of the master files they depend on. Errors may occur during load or game play. Check the ""Warnings.txt"" file for more information."			
+"611"	"sLoadLastSaveMsg"	"The most recent Save Game is '%s'. [CRLF]Would you like to load it?"			
+"612"	"sMessage1"	"Do you want to Load a save game and lose your current game?"			
+"613"	"sMessage2"	"Quit Morrowind?"			
+"614"	"sMessage3"	"Are you sure you want to delete this Save Game?"			
+"615"	"sMessage4"	"Are you sure you want to overwrite this Save Game?"			
+"616"	"sMessage5"	"Do you wish to quit your current game? [CRLF]All unsaved progress will be lost."			
+"617"	"sMessageQuestionAnswer1"	"Your personality and past reflect a:"			
+"618"	"sMessageQuestionAnswer2"	"Accept this Class"			
+"619"	"sMessageQuestionAnswer3"	"Choose Another Class"			
+"620"	"sBarterDialog1"	"You cannot afford this transaction."			
+"621"	"sBarterDialog2"	"I cannot afford this transaction."			
+"622"	"sBarterDialog3"	"This is to heavy for you to carry."			
+"623"	"sBarterDialog4"	"I don't buy that item."			
+"624"	"sBarterDialog5"	"Thank you, Please Come Again."			
+"625"	"sBarterDialog6"	"You need to place the bartered item before existing Barter Menu!"			
+"626"	"sBarterDialog7"	"Price"			
+"627"	"sBarterDialog8"	"Offer"			
+"628"	"sBarterDialog9"	"You cannot sell summoned items!"			
+"629"	"sBarterDialog10"	"You cannot buy summoned items!"			
+"630"	"sBarterDialog11"	"You need to trade items before making an offer."			
+"631"	"sBarterDialog12"	"You cannot drop summoned items!"			
+"632"	"sInventoryMessage1"	"This object is broken and cannot be equipped until fixed."			
+"633"	"sInventoryMessage2"	"You cannot repair items during battle."			
+"634"	"sInventoryMessage3"	"You cannot make potions during battle."			
+"635"	"sInventoryMessage4"	"You cannot read during battle."			
+"636"	"sInventoryMessage5"	"You cannot use soul gems during battle."			
+"637"	"sContentsMessage1"	"You cannot remove summoned items from their container."			
+"638"	"sContentsMessage2"	"You cannot place items in this container."			
+"639"	"sContentsMessage3"	"The item will not fit."			
+"640"	"sAttributeListTitle"	"Attribute List"			
+"641"	"sConsoleTitle"	"Console"			
+"642"	"sCreateClassMenu1"	"Class Description"			
+"643"	"sCreateClassMenu2"	"Close the Description menu before leaving Class Creation"			
+"644"	"sCreateClassMenu3"	"The class needs a description."			
+"645"	"sCreateClassMenuHelp1"	"You'll get +5 to all skills of your specialization. They'll also be easier to increase."			
+"646"	"sCreateClassMenuHelp2"	"You'll get +10 to each of your favored attributes."			
+"647"	"sControlsMenu1"	"Reset Controls"			
+"648"	"sControlsMenu2"	"Mouse Sensitivity"			
+"649"	"sControlsMenu3"	"Press a key or push a button to set this command."			
+"650"	"sControlsMenu4"	"Vertical Sensitivity"			
+"651"	"sControlsMenu5"	"Horizontal Sensitivity"			
+"652"	"sControlsMenu6"	"Push a button to set this command."			
+"653"	"sGameWithoutLauncherXbox"	"The game was started without the launcher.  Press START to continue."			
+"654"	"sDialogMenu1"	"Final Disposition: "			
+"655"	"sEnchantmentMenu1"	"Enchantment Menu"			
+"656"	"sEnchantmentMenu2"	"Enchantment Name"			
+"657"	"sEnchantmentMenu3"	"Enchantment"			
+"658"	"sEnchantmentMenu4"	"Point Cost"			
+"659"	"sEnchantmentMenu5"	"Buy"			
+"660"	"sEnchantmentMenu6"	"Chance"			
+"661"	"sEnchantmentMenu7"	"Please remove the current soul gem before placing a different soul gem."			
+"662"	"sEnchantmentMenu8"	"You cannot buy a spell that has a zero point cost."			
+"663"	"sEnchantmentMenu9"	"You cannot enchant more then one item of that type at a time."			
+"664"	"sEnchantmentMenu10"	"The cast cost cannot exceed the charge amount put into the time"			
+"665"	"sEnchantmentMenu11"	"You must add at least one effect to an enchantment"			
+"666"	"sEnchantmentMenu12"	"You have successfully created an enchanted item"			
+"667"	"sEnchantmentHelp1"	"Slot for item to enchant. Only weapons, armor, scrolls and clothing that are not already enchanted can be enchanted."			
+"668"	"sEnchantmentHelp2"	"Slot for the soul gem used to enchant an item. Only soul gems filled with a soul can be used. The soul amount is the total charge placed into the item."			
+"669"	"sEnchantmentHelp3"	"The first number is the total amount the enchantment would cost to cast. The second number is the total enchantment cost that can be placed on this type of item."			
+"670"	"sEnchantmentHelp4"	"The amount of charge points needed each time this enchantment is cast. This number is modified by your enchant skill."			
+"671"	"sEnchantmentHelp5"	"The amount of soul in the soul gem in the soul gem slot"			
+"672"	"sEnchantmentHelp6"	"Amount of gold to buy this enchantment"			
+"673"	"sEnchantmentHelp7"	"Type of cast for the enchantment."			
+"674"	"sEnchantmentHelp8"	"Name you give the spell."			
+"675"	"sEnchantmentHelp9"	"Magic effects you know that you can add to an item"			
+"676"	"sEnchantmentHelp10"	"Current effects on the item"			
+"677"	"sInputMenu1"	"Enter"			
+"678"	"sInventoryMenu1"	"You cannot equip items being bartered."			
+"679"	"sLevelUpMenu1"	"You have ascended to Level "			
+"680"	"sLevelUpMenu2"	"It's all suddenly obvious to you. You just have to concentrate. All the energy and time you've wasted is a sin, but without the experience you've gained, taking risks, taking responsibility for failure how could you have understood?"			
+"681"	"sLevelUpMenu3"	"x2"			
+"682"	"sLevelUpMenu4"	"x3"			
+"683"	"sLevelUpMsg"	"You should rest and meditate on what you've learned."			
+"684"	"sLevelUp"	"Level Up"			
+"685"	"sRange"	"Range"			
+"686"	"sArea"	"Area"			
+"687"	"sMagnitude"	"Magnitude"			
+"688"	"sDuration"	"Duration"			
+"689"	"sDrain"	"Drain"			
+"690"	"sAbsorb"	"Absorb"			
+"691"	"sFortify"	"Fortify"			
+"692"	"sRestore"	"Restore"			
+"693"	"sDamage"	"Damage"			
+"694"	"spoint"	"pt"			
+"695"	"spoints"	"pts"			
+"696"	"spercent"	"%"			
+"697"	"sfor"	"for"			
+"698"	"ssecond"	"sec"			
+"699"	"sseconds"	"secs"			
+"700"	"sin"	"in"			
+"701"	"sfootarea"	"ft"			
+"702"	"sfeet"	"ft"			
+"703"	"sXTimes"	"x"			
+"704"	"sXTimesINT"	"x INT"			
+"705"	"sonword"	"on"			
+"706"	"sNone"	"None"			
+"707"	"sDone"	"Done"			
+"708"	"sStartCell"	"Cavern of the Incarnate"			
+"709"	"sStartError"	"Cannot start in an empty interior cell!"			
+"710"	"sStartCellError"	"Starting interior cell ""Cavern of the Incarnate"" not found!"			
+"711"	"sAdmire"	"Admire"			
+"712"	"sIntimidate"	"Intimidate"			
+"713"	"sTaunt"	"Taunt"			
+"714"	"sBribe 10 Gold"	"Bribe 10 Gold"			
+"715"	"sBribe 100 Gold"	"Bribe 100 Gold"			
+"716"	"sBribe 1000 Gold"	"Bribe 1000 Gold"			
+"717"	"sPersuasionMenuTitle"	"Persuasion"			
+"718"	"sFast"	"Fast"			
+"719"	"sSlow"	"Slow"			
+"720"	"sBestAttack"	"Always Use Best Attack"			
+"721"	"sSubtitles"	"Subtitles"			
+"722"	"sMouseFlip"	"Invert Y Axis"			
+"723"	"sCursorOff"	"Crosshair"			
+"724"	"sEnableJoystick"	"Enable Joystick"			
+"725"	"sXStrafe"	"X-Axis Movement"			
+"726"	"sStrafe"	"Strafe"			
+"727"	"sTurn"	"Turn"			
+"728"	"sMouseWheelUpShort"	"MWheel Up"			
+"729"	"sMouseWheelDownShort"	"MWheel Down"			
+"730"	"sMouse"	"Mouse"			
+"731"	"sJoystickShort"	"Joy"			
+"732"	"sJoystickHatShort"	"JHat"			
+"733"	"sPickUp"	"Take"			
+"734"	"sItemName"	"Item Name"			
+"735"	"sNoName"	"NO NAME GIVEN!"			
+"736"	"sItem"	"Item"			
+"737"	"sRaceMenu1"	"Appearance"			
+"738"	"sRaceMenu2"	"Change Sex"			
+"739"	"sRaceMenu3"	"Change Face"			
+"740"	"sRaceMenu4"	"Change Hair"			
+"741"	"sRaceMenu5"	"Race"			
+"742"	"sRaceMenu6"	"Race Description"			
+"743"	"sRaceMenu7"	"Specials"			
+"744"	"sRestMenu1"	"How many hours?"			
+"745"	"sRestMenu2"	"Hours"			
+"746"	"sRestMenu3"	"REST"			
+"747"	"sRestMenu4"	"You can't rest right now."			
+"748"	"fRestMagicMult"			0.1500	
+"749"	"sSaveMenu1"	"New Save Game"			
+"750"	"sServiceRepairTitle"	"Repair Service Menu"			
+"751"	"sServiceTravelTitle"	"Travel"			
+"752"	"sServiceTrainingTitle"	"Training"			
+"753"	"sServiceTrainingWords"	"I can teach nothing more about that skill"			
+"754"	"sServiceSpellsTitle"	"Spells"			
+"755"	"sSkillsMenu1"	"Choose a Skill"			
+"756"	"sBonusSkillTitle"	"Skill Bonus"			
+"757"	"sSpecializationMenu1"	"Choose a Specialization"			
+"758"	"sSpellmakingMenuTitle"	"Spellmaking"			
+"759"	"sSpellmakingMenu1"	"Spell Chance"			
+"760"	"sSpellmakingHelp1"	"Name you give the spell."			
+"761"	"sSpellmakingHelp2"	"Amount of Magika one cast of the spell will cost"			
+"762"	"sSpellmakingHelp3"	"The chance you have to cast the spell at your current skill level"			
+"763"	"sSpellmakingHelp4"	"How much gold the spell will cost you."			
+"764"	"sSpellmakingHelp5"	"Magic effects you know that you can add to a spell"			
+"765"	"sSpellmakingHelp6"	"Current effects on the spell"			
+"766"	"sKilledEssential"	"With this character's death, the thread of prophecy is severed. Restore a saved game to restore the weave of fate, or persist in the doomed world you have created."			
+"767"	"sCrimeMessage"	"Your crime has been reported!"			
+"768"	"sPotionSuccess"	"You created a potion"			
+"769"	"sMagicItem"	"Magic Items"			
+"770"	"sMagnitudeDes"	"The range of a spells power"			
+"771"	"sAreaDes"	"The radius the spell attempt to affect"			
+"772"	"sDurationDes"	"The length a spell lasts"			
+"773"	"sRangeDes"	"What the spell is directed at such as yourself, a target or who you touch"			
+"774"	"sCrimeHelp"	"The penalty you must pay for your crimes, if caught."			
+"775"	"sSoulGem"	"Soul"			
+"776"	"sCastCost"	"Cast Cost"			
+"777"	"sTravelServiceTitle"	"Select destination"			
+"778"	"sSpellServiceTitle"	"Select spell to buy"			
+"779"	"sRepairServiceTitle"	"Select item to repair"			
+"780"	"sTrainingServiceTitle"	"Select skill to train"			
+"781"	"sMortar"	"Mortar"			
+"782"	"sCalcinator"	"Calcinator"			
+"783"	"sAlembic"	"Alembic"			
+"784"	"sRetort"	"Retort"			
+"785"	"sQuestionMark"	"?"			
+"786"	"s3dAudio"	"3D Audio"			
+"787"	"s3dHardware"	"Hardware Accelerated"			
+"788"	"s3dSoftware"	"Software Mode"			
+"789"	"sYourGold"	"YOUR GOLD"			
+"790"	"sSellerGold"	"SELLER GOLD"			
+"791"	"sMaxSale"	"Seller Max"			
+"792"	"sTotalCost"	"TOTAL COST"			
+"793"	"sTotalSold"	"TOTAL SOLD"			
+"794"	"sOffer"	"Offer"			
+"795"	"sLess"	"Less"			
+"796"	"sMore"	"More"			
+"797"	"sInventory"	"Inventory"			
+"798"	"sBookPageOne"	"1"			
+"799"	"sBookPageTwo"	"2"			
+"800"	"sDisposeofCorpse"	"Dispose of Corpse"			
+"801"	"sCaughtStealingMessage"	"Hey he's stealing my stuff!"			
+"802"	"sUserDefinedClass"	"User Defined Class"			
+"803"	"sAsk"	"Ask"			
+"804"	"sEnchantItems"	"Items to Enchant"			
+"805"	"sSoulGemsWithSouls"	"Soul Gems with Souls"			
+"806"	"sDoYouWantTo"	"Do you want to "			
+"807"	"sRechargeEnchantment"	"Recharge Enchanted Item "			
+"808"	"sMake Enchantment"	"Make an Enchanted Item "			
+"809"	"sSell"	"Sell"			
+"810"	"sEquip"	"Equip"			
+"811"	"sDrop"	"Drop"			
+"812"	"sContainer"	"Container "			
+"813"	"sStats"	"Stats "			
+"814"	"sMap"	"Map "			
+"815"	"sCenter"	"Center "			
+"816"	"sSaveMenuHelp01"	"th of"			
+"817"	"sSaveMenuHelp02"	"month"			
+"818"	"sSaveMenuHelp03"	"day"			
+"819"	"sSaveMenuHelp04"	"a.m."			
+"820"	"sSaveMenuHelp05"	"p.m."			
+"821"	"sSaveMenuHelp06"	"Delete Game?"			
+"822"	"sDeleteNote"	"Delete Note?"			
+"823"	"sEditNote"	"Edit Note"			
+"824"	"sBlocks"	"Blocks"			
+"825"	"sFileSize"	"File Size"			
+"826"	"sSave"	"Save"			
+"827"	"sDeleteSpell"	"Delete Spell"			
+"828"	"sQuestionDeleteSpell"	"Are you sure you wish to delete %s?"			
+"829"	"sDeleteSpellError"	"You cannot delete this item from the Magic Menu"			
+"830"	"sLocal"	"Local"			
+"831"	"sLoadFailedMessage"	"Your last load failed. You must load another game or start a new game."			
+"832"	"sShadows"	"Shadows"			
+"833"	"sControlerVibration"	"Controller Vibration"			
+"834"	"sQuanityMenuMessage01"	"Amount to Sell"			
+"835"	"sQuanityMenuMessage02"	"Amount to Buy"			
+"836"	"sSex"	"Sex"			
+"837"	"sHair"	"Hair"			
+"838"	"sFace"	"Face"			
+"839"	"sRepairFailed"	"Your repair failed!"			
+"840"	"sRepairSuccess"	"Your repair succeeded!"			
+"841"	"sHeal"	"Heal"			
+"842"	"sgp"	"gp"			
+"843"	"sSetValueMessage01"	"The maximum magnitude cannot be less then the minimum magnitude!"			
+"844"	"sDelete"	"Delete"			
+"845"	"sVideoWarning"	"Warning: Video Resolution does not allow shadows."			
+"846"	"sResChangeWarning"	"Desired resolution not supported by video card."			
+"847"	"sShift"	"Shift"			
+"848"	"sBackspace"	"Backspace"			
+"849"	"sCustomClassName"	"Adventurer"			
+"850"	"sSpace"	"Space"			
+"851"	"sInventorySelectNoItems"	"You have no items to fill this slot."			
+"852"	"sInventorySelectNoSoul"	"You have no filled Soul Gems"			
+"853"	"sInventorySelectNoIngredients"	"You have no ingredients"			
+"854"	"sDisposeCorpseFail"	"You can not remove this corpse"			
+"855"	"sQuickMenuTitle"	"Quick Keys"			
+"856"	"sQuickMenuInstruc"	"Click on quick key slot to add a spell, magic item or inventory item"			
+"857"	"sQuickMenu1"	"Item to QuickKey"			
+"858"	"sQuickMenu2"	"Inventory Menu Item"			
+"859"	"sQuickMenu3"	"Magic Menu Item"			
+"860"	"sQuickMenu4"	"Delete QuickKey Item"			
+"861"	"sQuickMenu5"	"You no longer have"			
+"862"	"sQuickMenu6"	"Inventory Items to Quick key"			
+"863"	"sMagicSelectTitle"	"Select a magic to Quick key."			
+"864"	"sNextRank"	"Next Rank:"			
+"865"	"sNeedOneSkill"	"Need one skill at"			
+"866"	"sNeedTwoSkills"	"Need two skills at"			
+"867"	"sand"	"and"			
+"868"	"sOneHanded"	"One Handed"			
+"869"	"sTwoHanded"	"Two Handed"			
+"870"	"sType"	"Type:"			
+"871"	"sAt"	"At"			
+"872"	"sUnequip"	"Unequip"			
+"873"	"sScrolldown"	"Scroll Down"			
+"874"	"sScrollup"	"Scroll Up"			
+"875"	"sSleepInterrupt"	"Your rest has been interrupted."			
+"876"	"sSoultrapSuccess"	"Your have trapped a soul"			
+"877"	"sCantEquipWeapWarning"	"Finish your current attack before equipping a new weapon"			
+"878"	"sOfferMenuTitle"	"Offer Menu"			
+"879"	"sPowers"	"Powers"			
+"880"	"sBreath"	"Breath"			
+"881"	"sDifficulty"	"Difficulty"			
+"882"	"sEasy"	"Easy"			
+"883"	"sHard"	"Hard"			
+"884"	"sProfitValue"	"Profit:"			
+"885"	"sCompanionShare"	"Share"			
+"886"	"sCompanionWarningMessage"	"Your mercenary is poorer now than when he contracted with you.  Your mercenary will quit if you do not give him gold or goods to bring his Profit to a positive value."			
+"887"	"sCompanionWarningButtonOne"	"Let the mercenary quit."			
+"888"	"sCompanionWarningButtonTwo"	"Return to Companion Share display."			
+"889"	"sAttributeStrength"	"Strength"			
+"890"	"sAttributeIntelligence"	"Intelligence"			
+"891"	"sAttributeWillpower"	"Willpower"			
+"892"	"sAttributeAgility"	"Agility"			
+"893"	"sAttributeSpeed"	"Speed"			
+"894"	"sAttributeEndurance"	"Endurance"			
+"895"	"sAttributePersonality"	"Personality"			
+"896"	"sAttributeLuck"	"Luck"			
+"897"	"sSkillBlock"	"Block"			
+"898"	"sSkillArmorer"	"Armorer"			
+"899"	"sSkillMediumarmor"	"Medium Armor"			
+"900"	"sSkillHeavyarmor"	"Heavy Armor"			
+"901"	"sSkillBluntweapon"	"Blunt Weapon"			
+"902"	"sSkillLongblade"	"Long Blade"			
+"903"	"sSkillAxe"	"Axe"			
+"904"	"sSkillSpear"	"Spear"			
+"905"	"sSkillAthletics"	"Athletics"			
+"906"	"sSkillEnchant"	"Enchant"			
+"907"	"sSkillDestruction"	"Destruction"			
+"908"	"sSkillAlteration"	"Alteration"			
+"909"	"sSkillIllusion"	"Illusion"			
+"910"	"sSkillConjuration"	"Conjuration"			
+"911"	"sSkillMysticism"	"Mysticism"			
+"912"	"sSkillRestoration"	"Restoration"			
+"913"	"sSkillAlchemy"	"Alchemy"			
+"914"	"sSkillUnarmored"	"Unarmored"			
+"915"	"sSkillSecurity"	"Security"			
+"916"	"sSkillSneak"	"Sneak"			
+"917"	"sSkillAcrobatics"	"Acrobatics"			
+"918"	"sSkillLightarmor"	"Light Armor"			
+"919"	"sSkillShortblade"	"Short Blade"			
+"920"	"sSkillMarksman"	"Marksman"			
+"921"	"sSkillMercantile"	"Mercantile"			
+"922"	"sSkillSpeechcraft"	"Speechcraft"			
+"923"	"sSkillHandtohand"	"Hand-to-hand"			
+"924"	"sHealth"	"Health"			
+"925"	"sRace"	"Race"			
+"926"	"sLevel"	"Level"			
+"927"	"sLevels"	"Levels"			
+"928"	"sFaction"	"Faction"			
+"929"	"sBirthSign"	"Sign"			
+"930"	"sBounty"	"Bounty"			
+"931"	"sReputation"	"Reputation"			
+"932"	"sSchool"	"School"			
+"933"	"sSkill"	"Skill"			
+"934"	"sSkillProgress"	"Progress towards skill increase"			
+"935"	"sSkillMaxReached"	"Maximum proficiency has been reached."			
+"936"	"sLevelProgress"	"Progress towards level increase"			
+"937"	"sMagic"	"Magicka"			
+"938"	"sMagicMenu"	"Magic"			
+"939"	"sFatigue"	"Fatigue"			
+"940"	"sSkillsMenuReputationHelp"	"Your fame rating in the world of Morrowind."			
+"941"	"sStrDesc"	"Affects your starting Health, how much you can carry, your maximum Fatigue, and how much damage you do in melee."			
+"942"	"sIntDesc"	"Determines your maximum amount of Magicka."			
+"943"	"sWilDesc"	"Affects your ability to resist magic, and your maximum Fatigue."			
+"944"	"sAgiDesc"	"Affects your ability to dodge and hit targets in melee as well as your maximum Fatigue."			
+"945"	"sSpdDesc"	"Determines how fast you can move."			
+"946"	"sEndDesc"	"Affects your starting Health, your Health gain per level, and your maximum Fatigue."			
+"947"	"sPerDesc"	"Affects your ability to deal with other characters and how much they like you."			
+"948"	"sLucDesc"	"Affects every action you do in a small way."			
+"949"	"sFatDesc"	"How tired you are. Low fatigue makes it harder to successfully perform actions."			
+"950"	"sHealthDesc"	"The amount of damage you can take before you die. Increases every time you gain a level."			
+"951"	"sMagDesc"	"Used to cast spells. Magicka is naturally restored by resting."			
+"952"	"fWortChanceValue"			15.0000	
+"953"	"sDefaultCellname"	"Wilderness"			
+"954"	"fMinWalkSpeed"			100.0000	
+"955"	"fMaxWalkSpeed"			200.0000	
+"956"	"fMinWalkSpeedCreature"			5.0000	
+"957"	"fMaxWalkSpeedCreature"			300.0000	
+"958"	"fEncumberedMoveEffect"			0.3000	
+"959"	"fBaseRunMultiplier"			1.7500	
+"960"	"fAthleticsRunBonus"			1.0000	
+"961"	"fJumpAcrobaticsBase"			128.0000	
+"962"	"fJumpAcroMultiplier"			4.0000	
+"963"	"fJumpEncumbranceBase"			0.5000	
+"964"	"fJumpEncumbranceMultiplier"			1.0000	
+"965"	"fJumpRunMultiplier"			1.0000	
+"966"	"fJumpMoveBase"			0.5000	
+"967"	"fJumpMoveMult"			0.5000	
+"968"	"fSwimWalkBase"			0.5000	
+"969"	"fSwimRunBase"			0.5000	
+"970"	"fSwimWalkAthleticsMult"			0.0200	
+"971"	"fSwimRunAthleticsMult"			0.1000	
+"972"	"fSwimHeightScale"			0.9000	
+"973"	"fHoldBreathTime"			20.0000	
+"974"	"fHoldBreathEndMult"			0.5000	
+"975"	"fSuffocationDamage"			3.0000	
+"976"	"fMinFlySpeed"			5.0000	
+"977"	"fMaxFlySpeed"			300.0000	
+"978"	"fStromWindSpeed"			0.7000	
+"979"	"fStromWalkMult"			0.2500	
+"980"	"fFallDamageDistanceMin"			400.0000	
+"981"	"fFallDistanceBase"			0.0000	
+"982"	"fFallDistanceMult"			0.0700	
+"983"	"fFallAcroBase"			0.2500	
+"984"	"fFallAcroMult"			0.0100	
+"985"	"iMaxActivateDist"		192		
+"986"	"iMaxInfoDist"		192		
+"987"	"fVanityDelay"			30.0000	
+"988"	"fMaxHeadTrackDistance"			400.0000	
+"989"	"fInteriorHeadTrackMult"			0.5000	
+"990"	"iHelmWeight"		5		
+"991"	"iPauldronWeight"		10		
+"992"	"iCuirassWeight"		30		
+"993"	"iGauntletWeight"		5		
+"994"	"iGreavesWeight"		15		
+"995"	"iBootsWeight"		20		
+"996"	"iShieldWeight"		15		
+"997"	"fLightMaxMod"			0.6000	
+"998"	"fMedMaxMod"			0.9000	
+"999"	"fUnarmoredBase1"			0.1000	
+"1000"	"fUnarmoredBase2"			0.0650	
+"1001"	"iBaseArmorSkill"		30		
+"1002"	"fBlockStillBonus"			1.2500	
+"1003"	"fDamageStrengthBase"			0.5000	
+"1004"	"fDamageStrengthMult"			0.1000	
+"1005"	"fSwingBlockBase"			1.0000	
+"1006"	"fSwingBlockMult"			1.0000	
+"1007"	"fFatigueBase"			1.2500	
+"1008"	"fFatigueMult"			0.5000	
+"1009"	"fFatigueReturnBase"			2.5000	
+"1010"	"fFatigueReturnMult"			0.0200	
+"1011"	"fEndFatigueMult"			0.0400	
+"1012"	"fFatigueAttackBase"			2.0000	
+"1013"	"fFatigueAttackMult"			0.0000	
+"1014"	"fWeaponFatigueMult"			0.2500	
+"1015"	"fFatigueBlockBase"			4.0000	
+"1016"	"fFatigueBlockMult"			0.0000	
+"1017"	"fWeaponFatigueBlockMult"			1.0000	
+"1018"	"fFatigueRunBase"			5.0000	
+"1019"	"fFatigueRunMult"			2.0000	
+"1020"	"fFatigueJumpBase"			5.0000	
+"1021"	"fFatigueJumpMult"			0.0000	
+"1022"	"fFatigueSwimWalkBase"			2.5000	
+"1023"	"fFatigueSwimRunBase"			7.0000	
+"1024"	"fFatigueSwimWalkMult"			0.0000	
+"1025"	"fFatigueSwimRunMult"			0.0000	
+"1026"	"fFatigueSneakBase"			1.5000	
+"1027"	"fFatigueSneakMult"			1.5000	
+"1028"	"fMinHandToHandMult"			0.1000	
+"1029"	"fMaxHandToHandMult"			0.5000	
+"1030"	"fHandtoHandHealthPer"			0.1000	
+"1031"	"fCombatInvisoMult"			0.2000	
+"1032"	"fCombatKODamageMult"			1.5000	
+"1033"	"fCombatCriticalStrikeMult"			4.0000	
+"1034"	"iBlockMinChance"		10		
+"1035"	"iBlockMaxChance"		50		
+"1036"	"fLevelUpHealthEndMult"			0.1000	
+"1037"	"fSoulGemMult"			3.0000	
+"1038"	"fEffectCostMult"			0.5000	
+"1039"	"fSpellPriceMult"			2.0000	
+"1040"	"fFatigueSpellBase"			0.0000	
+"1041"	"fFatigueSpellMult"			0.0000	
+"1042"	"fFatigueSpellCostMult"			0.0000	
+"1043"	"fPotionStrengthMult"			0.5000	
+"1044"	"fPotionT1MagMult"			1.5000	
+"1045"	"fPotionT1DurMult"			0.5000	
+"1046"	"fPotionMinUsefulDuration"			20.0000	
+"1047"	"fPotionT4BaseStrengthMult"			20.0000	
+"1048"	"fPotionT4EquipStrengthMult"			12.0000	
+"1049"	"fIngredientMult"			1.0000	
+"1050"	"fMagicItemCostMult"			1.0000	
+"1051"	"fMagicItemPriceMult"			1.0000	
+"1052"	"fMagicItemOnceMult"			1.0000	
+"1053"	"fMagicItemUsedMult"			1.0000	
+"1054"	"fMagicItemStrikeMult"			1.0000	
+"1055"	"fMagicItemConstantMult"			1.0000	
+"1056"	"fEnchantmentMult"			0.1000	
+"1057"	"fEnchantmentChanceMult"			3.0000	
+"1058"	"fPCbaseMagickaMult"			1.0000	
+"1059"	"fNPCbaseMagickaMult"			2.0000	
+"1060"	"fAutoSpellChance"			80.0000	
+"1061"	"fAutoPCSpellChance"			50.0000	
+"1062"	"iAutoSpellTimesCanCast"		3		
+"1063"	"iAutoSpellAttSkillMin"		70		
+"1064"	"iAutoSpellAlterationMax"		5		
+"1065"	"iAutoSpellConjurationMax"		2		
+"1066"	"iAutoSpellDestructionMax"		5		
+"1067"	"iAutoSpellIllusionMax"		5		
+"1068"	"iAutoSpellMysticismMax"		5		
+"1069"	"iAutoSpellRestorationMax"		5		
+"1070"	"iAutoPCSpellMax"		100		
+"1071"	"iAutoRepFacMod"		2		
+"1072"	"iAutoRepLevMod"		0		
+"1073"	"iMagicItemChargeOnce"		1		
+"1074"	"iMagicItemChargeConst"		10		
+"1075"	"iMagicItemChargeUse"		5		
+"1076"	"iMagicItemChargeStrike"		10		
+"1077"	"iMonthsToRespawn"		4		
+"1078"	"fCorpseClearDelay"			72.0000	
+"1079"	"fCorpseRespawnDelay"			72.0000	
+"1080"	"fBarterGoldResetDelay"			24.0000	
+"1081"	"fEncumbranceStrMult"			5.0000	
+"1082"	"fPickLockMult"			-1.0000	
+"1083"	"fTrapCostMult"			0.0000	
+"1084"	"fMessageTimePerChar"			0.1000	
+"1085"	"fMagicItemRechargePerSecond"			0.0500	
+"1086"	"i1stPersonSneakDelta"		10		
+"1087"	"iBarterSuccessDisposition"		1		
+"1088"	"iBarterFailDisposition"		-1		
+"1089"	"iLevelupTotal"		10		
+"1090"	"iLevelupMajorMult"		1		
+"1091"	"iLevelupMinorMult"		1		
+"1092"	"iLevelupMajorMultAttribute"		1		
+"1093"	"iLevelupMinorMultAttribute"		1		
+"1094"	"iLevelupMiscMultAttriubte"		1		
+"1095"	"iLevelupSpecialization"		1		
+"1096"	"iLevelUp01Mult"		2		
+"1097"	"iLevelUp02Mult"		2		
+"1098"	"iLevelUp03Mult"		2		
+"1099"	"iLevelUp04Mult"		2		
+"1100"	"iLevelUp05Mult"		3		
+"1101"	"iLevelUp06Mult"		3		
+"1102"	"iLevelUp07Mult"		3		
+"1103"	"iLevelUp08Mult"		4		
+"1104"	"iLevelUp09Mult"		4		
+"1105"	"iLevelUp10Mult"		5		
+"1106"	"iSoulAmountForConstantEffect"		400		
+"1107"	"fConstantEffectMult"			15.0000	
+"1108"	"fEnchantmentConstantDurationMult"			100.0000	
+"1109"	"fEnchantmentConstantChanceMult"			0.5000	
+"1110"	"fWeaponDamageMult"			0.1000	
+"1111"	"fSeriousWoundMult"			0.0000	
+"1112"	"fKnockDownMult"			0.5000	
+"1113"	"iKnockDownOddsBase"		50		
+"1114"	"iKnockDownOddsMult"		50		
+"1115"	"fCombatArmorMinMult"			0.2500	
+"1116"	"fHandToHandReach"			1.0000	
+"1117"	"fVoiceIdleOdds"			10.0000	
+"1118"	"iVoiceAttackOdds"		10		
+"1119"	"iVoiceHitOdds"		30		
+"1120"	"fProjectileMinSpeed"			400.0000	
+"1121"	"fProjectileMaxSpeed"			3000.0000	
+"1122"	"fThrownWeaponMinSpeed"			300.0000	
+"1123"	"fThrownWeaponMaxSpeed"			1000.0000	
+"1124"	"fTargetSpellMaxSpeed"			1000.0000	
+"1125"	"fProjectileThrownStoreChance"			25.0000	
+"1126"	"iPickMinChance"		5		
+"1127"	"iPickMaxChance"		75		
+"1128"	"fDispRaceMod"			5.0000	
+"1129"	"fDispPersonalityMult"			0.5000	
+"1130"	"fDispPersonalityBase"			50.0000	
+"1131"	"fDispFactionMod"			3.0000	
+"1132"	"fDispFactionRankBase"			1.0000	
+"1133"	"fDispFactionRankMult"			0.5000	
+"1134"	"fDispCrimeMod"			0.0000	
+"1135"	"fDispDiseaseMod"			-10.0000	
+"1136"	"iDispAttackMod"		-50		
+"1137"	"fDispWeaponDrawn"			-5.0000	
+"1138"	"fDispBargainSuccessMod"			1.0000	
+"1139"	"fDispBargainFailMod"			-1.0000	
+"1140"	"fDispPickPocketMod"			-25.0000	
+"1141"	"iDaysinPrisonMod"		100		
+"1142"	"fDispAttacking"			-10.0000	
+"1143"	"fDispStealing"			-0.5000	
+"1144"	"iDispTresspass"		-20		
+"1145"	"iDispKilling"		-50		
+"1146"	"iTrainingMod"		10		
+"1147"	"iAlchemyMod"		2		
+"1148"	"fBargainOfferBase"			50.0000	
+"1149"	"fBargainOfferMulti"			-4.0000	
+"1150"	"fDispositionMod"			1.0000	
+"1151"	"fPersonalityMod"			5.0000	
+"1152"	"fLuckMod"			10.0000	
+"1153"	"fReputationMod"			1.0000	
+"1154"	"fLevelMod"			5.0000	
+"1155"	"fBribe10Mod"			35.0000	
+"1156"	"fBribe100Mod"			75.0000	
+"1157"	"fBribe1000Mod"			150.0000	
+"1158"	"fPerDieRollMult"			0.3000	
+"1159"	"fPerTempMult"			1.0000	
+"1160"	"iPerMinChance"		5		
+"1161"	"iPerMinChange"		10		
+"1162"	"fSpecialSkillBonus"			0.8000	
+"1163"	"fMajorSkillBonus"			0.7500	
+"1164"	"fMinorSkillBonus"			1.0000	
+"1165"	"fMiscSkillBonus"			1.2500	
+"1166"	"iAlarmKilling"		90		
+"1167"	"iAlarmAttack"		50		
+"1168"	"iAlarmStealing"		1		
+"1169"	"iAlarmPickPocket"		20		
+"1170"	"iAlarmTresspass"		5		
+"1171"	"fAlarmRadius"			2000.0000	
+"1172"	"iCrimeKilling"		1000		
+"1173"	"iCrimeAttack"		40		
+"1174"	"fCrimeStealing"			1.0000	
+"1175"	"iCrimePickPocket"		25		
+"1176"	"iCrimeTresspass"		5		
+"1177"	"iCrimeThreshold"		1000		
+"1178"	"iCrimeThresholdMultiplier"		10		
+"1179"	"fCrimeGoldDiscountMult"			0.5000	
+"1180"	"fCrimeGoldTurnInMult"			0.9000	
+"1181"	"iFightAttack"		100		
+"1182"	"iFightAttacking"		50		
+"1183"	"iFightDistanceBase"		20		
+"1184"	"fFightDistanceMultiplier"			0.0050	
+"1185"	"iFightAlarmMult"		1		
+"1186"	"fFightDispMult"			0.2000	
+"1187"	"fFightStealing"			50.0000	
+"1188"	"iFightPickpocket"		25		
+"1189"	"iFightTrespass"		25		
+"1190"	"iFightKilling"		50		
+"1191"	"iFlee"		0		
+"1192"	"iGreetDistanceMultiplier"		6		
+"1193"	"iGreetDuration"		4		
+"1194"	"fGreetDistanceReset"			512.0000	
+"1195"	"fIdleChanceMultiplier"			0.7500	
+"1196"	"fSneakUseDist"			500.0000	
+"1197"	"fSneakUseDelay"			1.0000	
+"1198"	"fSneakDistanceBase"			0.5000	
+"1199"	"fSneakDistanceMultiplier"			0.0020	
+"1200"	"fSneakSpeedMultiplier"			0.7500	
+"1201"	"fSneakViewMult"			1.5000	
+"1202"	"fSneakNoViewMult"			0.5000	
+"1203"	"fSneakSkillMult"			1.0000	
+"1204"	"fSneakBootMult"			-1.0000	
+"1205"	"fCombatDistance"			128.0000	
+"1206"	"fCombatAngleXY"			60.0000	
+"1207"	"fCombatAngleZ"			60.0000	
+"1208"	"fCombatForceSideAngle"			30.0000	
+"1209"	"fCombatTorsoSideAngle"			45.0000	
+"1210"	"fCombatTorsoStartPercent"			0.3000	
+"1211"	"fCombatTorsoStopPercent"			0.8000	
+"1212"	"fCombatBlockLeftAngle"			-90.0000	
+"1213"	"fCombatBlockRightAngle"			30.0000	
+"1214"	"fCombatDelayCreature"			0.1000	
+"1215"	"fCombatDelayNPC"			0.1000	
+"1216"	"sTargetCriticalStrike"	"Critical Damage!"			
+"1217"	"fAIMeleeWeaponMult"			2.0000	
+"1218"	"fAIRangeMeleeWeaponMult"			5.0000	
+"1219"	"fAIMagicSpellMult"			3.0000	
+"1220"	"fAIRangeMagicSpellMult"			5.0000	
+"1221"	"fAIMeleeArmorMult"			1.0000	
+"1222"	"fAIMeleeSummWeaponMult"			1.0000	
+"1223"	"fAIFleeHealthMult"			7.0000	
+"1224"	"fAIFleeFleeMult"			0.3000	
+"1225"	"fPickPocketMod"			0.3000	
+"1226"	"fSleepRandMod"			0.2500	
+"1227"	"fSleepRestMod"			0.3000	
+"1228"	"iNumberCreatures"		1		
+"1229"	"fAudioDefaultMinDistance"			5.0000	
+"1230"	"fAudioDefaultMaxDistance"			40.0000	
+"1231"	"fAudioVoiceDefaultMinDistance"			10.0000	
+"1232"	"fAudioVoiceDefaultMaxDistance"			60.0000	
+"1233"	"fAudioMinDistanceMult"			20.0000	
+"1234"	"fAudioMaxDistanceMult"			50.0000	
+"1235"	"fNPCHealthBarTime"			3.0000	
+"1236"	"fNPCHealthBarFade"			0.5000	
+"1237"	"fDifficultyMult"			5.0000	
+"1238"	"fWereWolfRunMult"			1.5000	
+"1239"	"fWereWolfSilverWeaponDamageMult"			1.5000	
+"1240"	"iWereWolfBounty"		10000		
+"1241"	"fWereWolfStrength"			150.0000	
+"1242"	"fWereWolfAgility"			150.0000	
+"1243"	"fWereWolfEndurance"			150.0000	
+"1244"	"fWereWolfSpeed"			150.0000	
+"1245"	"fWereWolfHandtoHand"			100.0000	
+"1246"	"fWereWolfUnarmored"			100.0000	
+"1247"	"iWereWolfLevelToAttack"		20		
+"1248"	"iWereWolfFightMod"		100		
+"1249"	"iWereWolfFleeMod"		100		
+"1250"	"fWereWolfAthletics"			150.0000	
+"1251"	"fWereWolfAcrobatics"			150.0000	
+"1252"	"fWereWolfHealth"			2.0000	
+"1253"	"fWereWolfFatigue"			400.0000	
+"1254"	"fWereWolfMagicka"			100.0000	
+"1255"	"fWereWolfIntellegence"			1.0000	
+"1256"	"fWereWolfWillPower"			1.0000	
+"1257"	"fWereWolfPersonality"			1.0000	
+"1258"	"fWereWolfLuck"			1.0000	
+"1259"	"fWereWolfBlock"			1.0000	
+"1260"	"fWereWolfArmorer"			1.0000	
+"1261"	"fWereWolfMediumArmor"			1.0000	
+"1262"	"fWereWolfHeavyArmor"			1.0000	
+"1263"	"fWereWolfBluntWeapon"			1.0000	
+"1264"	"fWereWolfLongBlade"			1.0000	
+"1265"	"fWereWolfAxe"			1.0000	
+"1266"	"fWereWolfSpear"			1.0000	
+"1267"	"fWereWolfDestruction"			1.0000	
+"1268"	"fWereWolfAlteration"			1.0000	
+"1269"	"fWereWolfIllusion"			1.0000	
+"1270"	"fWereWolfConjuration"			1.0000	
+"1271"	"fWereWolfMysticism"			1.0000	
+"1272"	"fWereWolfRestoration"			1.0000	
+"1273"	"fWereWolfEnchant"			1.0000	
+"1274"	"fWereWolfAlchemy"			1.0000	
+"1275"	"fWereWolfSecurity"			1.0000	
+"1276"	"fWereWolfSneak"			1.0000	
+"1277"	"fWereWolfLightArmor"			1.0000	
+"1278"	"fWereWolfShortBlade"			1.0000	
+"1279"	"fWereWolfMarksman"			1.0000	
+"1280"	"fWereWolfMerchantile"			1.0000	
+"1281"	"fWereWolfSpeechcraft"			1.0000	
+"1282"	"fCombatDistanceWerewolfMod"			0.3000	
+"1283"	"fFleeDistance"			3000.0000	
+"1284"	"sEffectWaterBreathing"	"Water Breathing"			
+"1285"	"sEffectSwiftSwim"	"Swift Swim"			
+"1286"	"sEffectWaterWalking"	"Water Walking"			
+"1287"	"sEffectShield"	"Shield"			
+"1288"	"sEffectFireShield"	"Fire Shield"			
+"1289"	"sEffectLightningShield"	"Lightning Shield"			
+"1290"	"sEffectFrostShield"	"Frost Shield"			
+"1291"	"sEffectBurden"	"Burden"			
+"1292"	"sEffectFeather"	"Feather"			
+"1293"	"sEffectJump"	"Jump"			
+"1294"	"sEffectLevitate"	"Levitate"			
+"1295"	"sEffectSlowFall"	"SlowFall"			
+"1296"	"sEffectLock"	"Lock"			
+"1297"	"sEffectOpen"	"Open"			
+"1298"	"sEffectFireDamage"	"Fire Damage"			
+"1299"	"sEffectShockDamage"	"Shock Damage"			
+"1300"	"sEffectFrostDamage"	"Frost Damage"			
+"1301"	"sEffectDrainAttribute"	"Drain Attribute"			
+"1302"	"sEffectDrainHealth"	"Drain Health"			
+"1303"	"sEffectDrainSpellpoints"	"Drain Magicka"			
+"1304"	"sEffectDrainFatigue"	"Drain Fatigue"			
+"1305"	"sEffectDrainSkill"	"Drain Skill"			
+"1306"	"sEffectDamageAttribute"	"Damage Attribute"			
+"1307"	"sEffectDamageHealth"	"Damage Health"			
+"1308"	"sEffectDamageMagicka"	"Damage Magicka"			
+"1309"	"sEffectDamageFatigue"	"Damage Fatigue"			
+"1310"	"sEffectDamageSkill"	"Damage Skill"			
+"1311"	"sEffectPoison"	"Poison"			
+"1312"	"sEffectWeaknessToFire"	"Weakness to Fire"			
+"1313"	"sEffectWeaknessToFrost"	"Weakness to Frost"			
+"1314"	"sEffectWeaknessToShock"	"Weakness to Shock"			
+"1315"	"sEffectWeaknessToMagicka"	"Weakness to Magicka"			
+"1316"	"sEffectWeaknessToCommonDisease"	"Weakness to Common Disease"			
+"1317"	"sEffectWeaknessToBlightDisease"	"Weakness to Blight Disease"			
+"1318"	"sEffectWeaknessToCorprusDisease"	"Weakness to Corprus Disease"			
+"1319"	"sEffectWeaknessToPoison"	"Weakness to Poison"			
+"1320"	"sEffectWeaknessToNormalWeapons"	"Weakness to Normal Weapons"			
+"1321"	"sEffectDisintegrateWeapon"	"Disintegrate Weapon"			
+"1322"	"sEffectDisintegrateArmor"	"Disintegrate Armor"			
+"1323"	"sEffectInvisibility"	"Invisibility"			
+"1324"	"sEffectChameleon"	"Chameleon"			
+"1325"	"sEffectLight"	"Light"			
+"1326"	"sEffectSanctuary"	"Sanctuary"			
+"1327"	"sEffectNightEye"	"Night Eye"			
+"1328"	"sEffectCharm"	"Charm"			
+"1329"	"sEffectParalyze"	"Paralyze"			
+"1330"	"sEffectSilence"	"Silence"			
+"1331"	"sEffectBlind"	"Blind"			
+"1332"	"sEffectSound"	"Sound"			
+"1333"	"sEffectCalmHumanoid"	"Calm Humanoid"			
+"1334"	"sEffectCalmCreature"	"Calm Creature"			
+"1335"	"sEffectFrenzyHumanoid"	"Frenzy Humanoid"			
+"1336"	"sEffectFrenzyCreature"	"Frenzy Creature"			
+"1337"	"sEffectDemoralizeHumanoid"	"Demoralize Humanoid"			
+"1338"	"sEffectDemoralizeCreature"	"Demoralize Creature"			
+"1339"	"sEffectRallyHumanoid"	"Rally Humanoid"			
+"1340"	"sEffectRallyCreature"	"Rally Creature"			
+"1341"	"sEffectDispel"	"Dispel"			
+"1342"	"sEffectSoultrap"	"Soultrap"			
+"1343"	"sEffectTelekinesis"	"Telekinesis"			
+"1344"	"sEffectMark"	"Mark"			
+"1345"	"sEffectRecall"	"Recall"			
+"1346"	"sEffectDivineIntervention"	"Divine Intervention"			
+"1347"	"sEffectAlmsiviIntervention"	"Almsivi Intervention"			
+"1348"	"sEffectDetectAnimal"	"Detect Animal"			
+"1349"	"sEffectDetectEnchantment"	"Detect Enchantment"			
+"1350"	"sEffectDetectKey"	"Detect Key"			
+"1351"	"sEffectSpellAbsorption"	"Spell Absorption"			
+"1352"	"sEffectReflect"	"Reflect"			
+"1353"	"sEffectCureCommonDisease"	"Cure Common Disease"			
+"1354"	"sEffectCureBlightDisease"	"Cure Blight Disease"			
+"1355"	"sEffectCureCorprusDisease"	"Cure Corprus Disease"			
+"1356"	"sEffectCurePoison"	"Cure Poison"			
+"1357"	"sEffectCureParalyzation"	"Cure Paralyzation"			
+"1358"	"sEffectRestoreAttribute"	"Restore Attribute"			
+"1359"	"sEffectRestoreHealth"	"Restore Health"			
+"1360"	"sEffectRestoreSpellPoints"	"Restore Magicka"			
+"1361"	"sEffectRestoreFatigue"	"Restore Fatigue"			
+"1362"	"sEffectRestoreSkill"	"Restore Skill"			
+"1363"	"sEffectFortifyAttribute"	"Fortify Attribute"			
+"1364"	"sEffectFortifyHealth"	"Fortify Health"			
+"1365"	"sEffectFortifySpellpoints"	"Fortify Magicka"			
+"1366"	"sEffectFortifyFatigue"	"Fortify Fatigue"			
+"1367"	"sEffectFortifySkill"	"Fortify Skill"			
+"1368"	"sEffectFortifyMagickaMultiplier"	"Fortify Maximum Magicka"			
+"1369"	"sEffectAbsorbAttribute"	"Absorb Attribute"			
+"1370"	"sEffectAbsorbHealth"	"Absorb Health"			
+"1371"	"sEffectAbsorbSpellPoints"	"Absorb Magicka"			
+"1372"	"sEffectAbsorbFatigue"	"Absorb Fatigue"			
+"1373"	"sEffectAbsorbSkill"	"Absorb Skill"			
+"1374"	"sEffectResistFire"	"Resist Fire"			
+"1375"	"sEffectResistFrost"	"Resist Frost"			
+"1376"	"sEffectResistShock"	"Resist Shock"			
+"1377"	"sEffectResistMagicka"	"Resist Magicka"			
+"1378"	"sEffectResistCommonDisease"	"Resist Common Disease"			
+"1379"	"sEffectResistBlightDisease"	"Resist Blight Disease"			
+"1380"	"sEffectResistCorprusDisease"	"Resist Corprus Disease"			
+"1381"	"sEffectResistPoison"	"Resist Poison"			
+"1382"	"sEffectResistNormalWeapons"	"Resist Normal Weapons"			
+"1383"	"sEffectResistParalysis"	"Resist Paralysis"			
+"1384"	"sEffectRemoveCurse"	"Remove Curse"			
+"1385"	"sEffectTurnUndead"	"Turn Undead"			
+"1386"	"sEffectSummonScamp"	"Summon Scamp"			
+"1387"	"sEffectSummonClannfear"	"Summon Clannfear"			
+"1388"	"sEffectSummonDaedroth"	"Summon Daedroth"			
+"1389"	"sEffectSummonDremora"	"Summon Dremora"			
+"1390"	"sEffectSummonAncestralGhost"	"Summon Ancestral Ghost"			
+"1391"	"sEffectSummonSkeletalMinion"	"Summon Skeletal Minion"			
+"1392"	"sEffectSummonLeastBonewalker"	"Summon Bonewalker"			
+"1393"	"sEffectSummonGreaterBonewalker"	"Summon Greater Bonewalker"			
+"1394"	"sEffectSummonBonelord"	"Summon Bonelord"			
+"1395"	"sEffectSummonWingedTwilight"	"Summon Winged Twilight"			
+"1396"	"sEffectSummonHunger"	"Summon Hunger"			
+"1397"	"sEffectSummonGoldensaint"	"Summon Golden Saint"			
+"1398"	"sEffectSummonFlameAtronach"	"Summon Flame Atronach"			
+"1399"	"sEffectSummonFrostAtronach"	"Summon Frost Atronach"			
+"1400"	"sEffectSummonStormAtronach"	"Summon Storm Atronach"			
+"1401"	"sEffectFortifyAttackBonus"	"Fortify Attack"			
+"1402"	"sEffectCommandCreatures"	"Command Creature"			
+"1403"	"sEffectCommandHumanoids"	"Command Humanoid"			
+"1404"	"sEffectBoundDagger"	"Bound Dagger"			
+"1405"	"sEffectBoundLongsword"	"Bound Longsword"			
+"1406"	"sEffectBoundMace"	"Bound Mace"			
+"1407"	"sEffectBoundBattleAxe"	"Bound Battle Axe"			
+"1408"	"sEffectBoundSpear"	"Bound Spear"			
+"1409"	"sEffectBoundLongbow"	"Bound Longbow"			
+"1410"	"sEffectExtraSpell"	"EXTRA SPELL"			
+"1411"	"sEffectBoundCuirass"	"Bound Cuirass"			
+"1412"	"sEffectBoundHelm"	"Bound Helm"			
+"1413"	"sEffectBoundBoots"	"Bound Boots"			
+"1414"	"sEffectBoundShield"	"Bound Shield"			
+"1415"	"sEffectBoundGloves"	"Bound Gloves"			
+"1416"	"sEffectCorpus"	"Corprus"			
+"1417"	"sEffectVampirism"	"Vampirism"			
+"1418"	"sEffectSummonCenturionSphere"	"Summon Centurion Sphere"			
+"1419"	"sEffectSunDamage"	"Sun Damage"			
+"1420"	"sEffectStuntedMagicka"	"Stunted Magicka"			
+"1421"	"sEffectSummonFabricant"	"Summon Fabricant"			
+"1422"	"sEffectSummonCreature01"	"sEffectSummonCreature01"			
+"1423"	"sEffectSummonCreature02"	"sEffectSummonCreature02"			
+"1424"	"sEffectSummonCreature03"	"sEffectSummonCreature03"			
+"1425"	"sEffectSummonCreature04"	"sEffectSummonCreature04"			
+"1426"	"sEffectSummonCreature05"	"sEffectSummonCreature05"			
+"1427"	"sSchoolAlteration"	"Alteration"			
+"1428"	"sSchoolConjuration"	"Conjuration"			
+"1429"	"sSchoolDestruction"	"Destruction"			
+"1430"	"sSchoolIllusion"	"Illusion"			
+"1431"	"sSchoolMysticism"	"Mysticism"			
+"1432"	"sSchoolRestoration"	"Restoration"			
+"1433"	"sTypeSpell"	"Spells"			
+"1434"	"sTypeAbility"	"Abilities"			
+"1435"	"sTypeBlightDisease"	"Blight Disease"			
+"1436"	"sTypeDisease"	"Disease"			
+"1437"	"sTypeCurse"	"Curse"			
+"1438"	"sTypePower"	"Powers"			
+"1439"	"sItemCastOnce"	"Cast Once"			
+"1440"	"sItemCastWhenStrikes"	"Cast When Strikes"			
+"1441"	"sItemCastWhenUsed"	"Cast When Used"			
+"1442"	"sItemCastConstant"	"Constant Effect"			
+"1443"	"sRangeSelf"	"Self"			
+"1444"	"sRangeTouch"	"Touch"			
+"1445"	"sRangeTarget"	"Target"			
+"1446"	"sMagicSkillFail"	"You failed casting the spell."			
+"1447"	"sMagicInsufficientSP"	"You do not have enough Magicka to cast the spell."			
+"1448"	"sMagicInsufficientCharge"	"Item does not have enough charge."			
+"1449"	"sPowerAlreadyUsed"	"You already used that power today."			
+"1450"	"sMagicInvalidTarget"	"Your spell did not get a target."			
+"1451"	"sMagicLockSuccess"	"Your spell has locked its target."			
+"1452"	"sMagicOpenSuccess"	"Your spell has unlocked its target."			
+"1453"	"sMagicTargetResistsWeapons"	"Your weapon has no effect."			
+"1454"	"sMagicContractDisease"	"You have contracted %s"			
+"1455"	"fMagicDetectRefreshRate"			0.5000	
+"1456"	"fMagicStartIconBlink"			3.0000	
+"1457"	"fMagicCreatureCastDelay"			1.5000	
+"1458"	"sMagicScampID"	"Scamp_summon"			
+"1459"	"sMagicClannfearID"	"Clannfear_summon"			
+"1460"	"sMagicDaedrothID"	"Daedroth_summon"			
+"1461"	"sMagicDremoraID"	"Dremora_summon"			
+"1462"	"sMagicAncestralGhostID"	"Ancestor_Ghost_summon"			
+"1463"	"sMagicSkeletalMinionID"	"Skeleton_summon"			
+"1464"	"sMagicLeastBonewalkerID"	"Bonewalker_summon"			
+"1465"	"sMagicGreaterBonewalkerID"	"Bonewalker_Greater_summ"			
+"1466"	"sMagicBonelordID"	"Bonelord_summon"			
+"1467"	"sMagicWingedTwilightID"	"Winged Twilight_summon"			
+"1468"	"sMagicHungerID"	"Hunger_summon"			
+"1469"	"sMagicGoldenSaintID"	"Golden Saint_summon"			
+"1470"	"sMagicFlameAtronachID"	"Atronach_Flame_summon"			
+"1471"	"sMagicFrostAtronachID"	"Atronach_Frost_summon"			
+"1472"	"sMagicStormAtronachID"	"Atronach_Storm_summon"			
+"1473"	"sMagicCenturionSphereID"	"centurion_sphere_summon"			
+"1474"	"sMagicFabricantID"	"Fabricant_summon"			
+"1475"	"sMagicCreature01ID"	"sMagicCreature01ID"			
+"1476"	"sMagicCreature02ID"	"sMagicCreature02ID"			
+"1477"	"sMagicCreature03ID"	"sMagicCreature03ID"			
+"1478"	"sMagicCreature04ID"	"sMagicCreature04ID"			
+"1479"	"sMagicCreature05ID"	"sMagicCreature05ID"			
+"1480"	"sMagicBoundDaggerID"	"Bound_Dagger"			
+"1481"	"sMagicBoundLongswordID"	"Bound_Longsword"			
+"1482"	"sMagicBoundMaceID"	"Bound_Mace"			
+"1483"	"sMagicBoundBattleAxeID"	"Bound_Battle_Axe"			
+"1484"	"sMagicBoundSpearID"	"Bound_Spear"			
+"1485"	"sMagicBoundLongbowID"	"Bound_Longbow"			
+"1486"	"sMagicBoundCuirassID"	"Bound_Cuirass"			
+"1487"	"sMagicBoundHelmID"	"Bound_Helm"			
+"1488"	"sMagicBoundBootsID"	"Bound_Boots"			
+"1489"	"sMagicBoundShieldID"	"Bound_Shield"			
+"1490"	"sMagicBoundLeftGauntletID"	"Bound_Gauntlet_Left"			
+"1491"	"sMagicBoundRightGauntletID"	"Bound_Gauntlet_Right"			
+"1492"	"fDiseaseXferChance"			2.5000	
+"1493"	"fElementalShieldMult"			0.1000	
+"1494"	"sMagicCorprusWorsens"	"Your case of Corprus has worsened."			
+"1495"	"sMagicCannotRecast"	"You cannot re-cast this spell while it is still in effect."			
+"1496"	"fMagicSunBlockedMult"			0.5000	
+"1497"	"sMagicPCResisted"	"You resisted magic."			
+"1498"	"sMagicTargetResisted"	"Target resisted magic."			
+"1499"	"sMagicInvalidEffect"	"You cannot cast this effect right now."			
+"1500"	"sAcrobat"	"Acrobat"			
+"1501"	"sAgent"	"Agent"			
+"1502"	"sArcher"	"Archer"			
+"1503"	"sAssassin"	"Assassin"			
+"1504"	"sBarbarian"	"Barbarian"			
+"1505"	"sBard"	"Bard"			
+"1506"	"sBattlemage"	"Battlemage"			
+"1507"	"sCrusader"	"Crusader"			
+"1508"	"sCustom"	"Custom"			
+"1509"	"sHealer"	"Healer"			
+"1510"	"sKnight"	"Knight"			
+"1511"	"sMage"	"Mage"			
+"1512"	"sMonk"	"Monk"			
+"1513"	"sNightblade"	"Nightblade"			
+"1514"	"sPilgrim"	"Pilgrim"			
+"1515"	"sRogue"	"Rogue"			
+"1516"	"sScout"	"Scout"			
+"1517"	"sSorceror"	"Sorcerer"			
+"1518"	"sSpellsword"	"Spellsword"			
+"1519"	"sThief"	"Thief"			
+"1520"	"sWarrior"	"Warrior"			
+"1521"	"sWitchhunter"	"Witchhunter"			
